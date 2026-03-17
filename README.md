@@ -1,5 +1,3 @@
-Readme frontend · MD
-Copiar
 
 # Inventario Frontend
 Aplicación web para gestión de inventario desarrollada con React y Tailwind CSS. Consume la API REST del backend con autenticación JWT.

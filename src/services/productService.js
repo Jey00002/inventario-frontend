@@ -1,4 +1,4 @@
-const API = "http://localhost:8082/inventario-app/products";
+const API = `${process.env.REACT_APP_API_URL}/inventario-app/products`;
 
 const getToken = () => localStorage.getItem("token");
 
